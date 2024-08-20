@@ -1,0 +1,1136 @@
+{
+  "company": [
+    [
+      1,
+      "Which one doesn't belong to the same category as the others?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nWhich one doesn't belong to the same category as the others?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nWhich one doesn't belong to the same category as the others?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nWhich one doesn't belong to the same category as the others?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nWhich one doesn't belong to the same category as the others?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nWhich one doesn't belong to the same category as the others?\nA. brewery\nB. golf league\nC. caterer\nD. bank\nAnswer:",
+      " B"
+    ],
+    [
+      2,
+      "Please identify the entity which one is not of the same type as others:\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nPlease identify the entity which one is not of the same type as others:\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nPlease identify the entity which one is not of the same type as others:\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nPlease identify the entity which one is not of the same type as others:\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nPlease identify the entity which one is not of the same type as others:\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nPlease identify the entity which one is not of the same type as others: A. brewery\nB. golf league\nC. caterer\nD. bank\nAnswer:",
+      " B"
+    ],
+    [
+      3,
+      "Among the following options, which one does not belong to the same field as the other three?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nAmong the following options, which one does not belong to the same field as the other three?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nAmong the following options, which one does not belong to the same field as the other three?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nAmong the following options, which one does not belong to the same field as the other three?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nAmong the following options, which one does not belong to the same field as the other three?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nAmong the following options, which one does not belong to the same field as the other three? A. brewery\nB. golf league\nC. caterer\nD. bank\nAnswer:",
+      " B"
+    ],
+    [
+      4,
+      "Among the following options, which one is different from the other three?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nAmong the following options, which one is different from the other three?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nAmong the following options, which one is different from the other three?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nAmong the following options, which one is different from the other three?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nAmong the following options, which one is different from the other three?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nAmong the following options, which one is different from the other three? A. brewery\nB. golf league\nC. caterer\nD. bank\nAnswer:",
+      " B"
+    ],
+    [
+      5,
+      "Choose the entity that does not match the other three options:\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nChoose the entity that does not match the other three options:\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nChoose the entity that does not match the other three options:\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nChoose the entity that does not match the other three options:\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nChoose the entity that does not match the other three options:\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nChoose the entity that does not match the other three options: A. brewery\nB. golf league\nC. caterer\nD. bank\nAnswer:",
+      " B"
+    ]
+  ],
+  "educational institution": [
+    [
+      1,
+      "Which one doesn't belong to the same category as the others?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nWhich one doesn't belong to the same category as the others?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nWhich one doesn't belong to the same category as the others?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nWhich one doesn't belong to the same category as the others?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nWhich one doesn't belong to the same category as the others?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nWhich one doesn't belong to the same category as the others?\nA. school\nB. airline\nC. college\nD. library\nAnswer:",
+      " B"
+    ],
+    [
+      2,
+      "Please identify the entity which one is not of the same type as others:\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nPlease identify the entity which one is not of the same type as others:\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nPlease identify the entity which one is not of the same type as others:\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nPlease identify the entity which one is not of the same type as others:\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nPlease identify the entity which one is not of the same type as others:\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nPlease identify the entity which one is not of the same type as others: A. school\nB. airline\nC. college\nD. library\nAnswer:",
+      " B"
+    ],
+    [
+      3,
+      "Among the following options, which one does not belong to the same field as the other three?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nAmong the following options, which one does not belong to the same field as the other three?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nAmong the following options, which one does not belong to the same field as the other three?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nAmong the following options, which one does not belong to the same field as the other three?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nAmong the following options, which one does not belong to the same field as the other three?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nAmong the following options, which one does not belong to the same field as the other three? A. school\nB. airline\nC. college\nD. library\nAnswer:",
+      " B"
+    ],
+    [
+      4,
+      "Among the following options, which one is different from the other three?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nAmong the following options, which one is different from the other three?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nAmong the following options, which one is different from the other three?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nAmong the following options, which one is different from the other three?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nAmong the following options, which one is different from the other three?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nAmong the following options, which one is different from the other three? A. school\nB. airline\nC. college\nD. library\nAnswer:",
+      " B"
+    ],
+    [
+      5,
+      "Choose the entity that does not match the other three options:\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nChoose the entity that does not match the other three options:\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nChoose the entity that does not match the other three options:\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nChoose the entity that does not match the other three options:\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nChoose the entity that does not match the other three options:\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nChoose the entity that does not match the other three options: A. school\nB. airline\nC. college\nD. library\nAnswer:",
+      " B"
+    ]
+  ],
+  "sports league": [
+    [
+      1,
+      "Which one doesn't belong to the same category as the others?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nWhich one doesn't belong to the same category as the others?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nWhich one doesn't belong to the same category as the others?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nWhich one doesn't belong to the same category as the others?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nWhich one doesn't belong to the same category as the others?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nWhich one doesn't belong to the same category as the others?\nA. soccer league\nB. videogames league\nC. brewery\nD. boxing league\nAnswer:",
+      " C"
+    ],
+    [
+      2,
+      "Please identify the entity which one is not of the same type as others:\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nPlease identify the entity which one is not of the same type as others:\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nPlease identify the entity which one is not of the same type as others:\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nPlease identify the entity which one is not of the same type as others:\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nPlease identify the entity which one is not of the same type as others:\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nPlease identify the entity which one is not of the same type as others: A. soccer league\nB. videogames league\nC. brewery\nD. boxing league\nAnswer:",
+      " C"
+    ],
+    [
+      3,
+      "Among the following options, which one does not belong to the same field as the other three?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nAmong the following options, which one does not belong to the same field as the other three?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nAmong the following options, which one does not belong to the same field as the other three?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nAmong the following options, which one does not belong to the same field as the other three?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nAmong the following options, which one does not belong to the same field as the other three?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nAmong the following options, which one does not belong to the same field as the other three? A. soccer league\nB. videogames league\nC. brewery\nD. boxing league\nAnswer:",
+      " C"
+    ],
+    [
+      4,
+      "Among the following options, which one is different from the other three?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nAmong the following options, which one is different from the other three?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nAmong the following options, which one is different from the other three?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nAmong the following options, which one is different from the other three?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nAmong the following options, which one is different from the other three?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nAmong the following options, which one is different from the other three? A. soccer league\nB. videogames league\nC. brewery\nD. boxing league\nAnswer:",
+      " C"
+    ],
+    [
+      5,
+      "Choose the entity that does not match the other three options:\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nChoose the entity that does not match the other three options:\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nChoose the entity that does not match the other three options:\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nChoose the entity that does not match the other three options:\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nChoose the entity that does not match the other three options:\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nChoose the entity that does not match the other three options: A. soccer league\nB. videogames league\nC. brewery\nD. boxing league\nAnswer:",
+      " C"
+    ]
+  ],
+  "performing group": [
+    [
+      1,
+      "Which one doesn't belong to the same category as the others?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nWhich one doesn't belong to the same category as the others?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nWhich one doesn't belong to the same category as the others?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nWhich one doesn't belong to the same category as the others?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nWhich one doesn't belong to the same category as the others?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nWhich one doesn't belong to the same category as the others?\nA. circus\nB. band\nC. theatre troupe\nD. motorcycle racing league\nAnswer:",
+      " D"
+    ],
+    [
+      2,
+      "Please identify the entity which one is not of the same type as others:\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nPlease identify the entity which one is not of the same type as others:\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nPlease identify the entity which one is not of the same type as others:\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nPlease identify the entity which one is not of the same type as others:\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nPlease identify the entity which one is not of the same type as others:\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nPlease identify the entity which one is not of the same type as others: A. circus\nB. band\nC. theatre troupe\nD. motorcycle racing league\nAnswer:",
+      " D"
+    ],
+    [
+      3,
+      "Among the following options, which one does not belong to the same field as the other three?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nAmong the following options, which one does not belong to the same field as the other three?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nAmong the following options, which one does not belong to the same field as the other three?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nAmong the following options, which one does not belong to the same field as the other three?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nAmong the following options, which one does not belong to the same field as the other three?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nAmong the following options, which one does not belong to the same field as the other three? A. circus\nB. band\nC. theatre troupe\nD. motorcycle racing league\nAnswer:",
+      " D"
+    ],
+    [
+      4,
+      "Among the following options, which one is different from the other three?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nAmong the following options, which one is different from the other three?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nAmong the following options, which one is different from the other three?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nAmong the following options, which one is different from the other three?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nAmong the following options, which one is different from the other three?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nAmong the following options, which one is different from the other three? A. circus\nB. band\nC. theatre troupe\nD. motorcycle racing league\nAnswer:",
+      " D"
+    ],
+    [
+      5,
+      "Choose the entity that does not match the other three options:\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nChoose the entity that does not match the other three options:\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nChoose the entity that does not match the other three options:\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nChoose the entity that does not match the other three options:\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nChoose the entity that does not match the other three options:\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nChoose the entity that does not match the other three options: A. circus\nB. band\nC. theatre troupe\nD. motorcycle racing league\nAnswer:",
+      " D"
+    ]
+  ],
+  "building": [
+    [
+      1,
+      "Which one doesn't belong to the same category as the others?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nWhich one doesn't belong to the same category as the others?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nWhich one doesn't belong to the same category as the others?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nWhich one doesn't belong to the same category as the others?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nWhich one doesn't belong to the same category as the others?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nWhich one doesn't belong to the same category as the others?\nA. bridge\nB. hotel\nC. factory\nD. castle\nAnswer:",
+      " A"
+    ],
+    [
+      2,
+      "Please identify the entity which one is not of the same type as others:\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nPlease identify the entity which one is not of the same type as others:\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nPlease identify the entity which one is not of the same type as others:\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nPlease identify the entity which one is not of the same type as others:\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nPlease identify the entity which one is not of the same type as others:\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nPlease identify the entity which one is not of the same type as others: A. bridge\nB. hotel\nC. factory\nD. castle\nAnswer:",
+      " A"
+    ],
+    [
+      3,
+      "Among the following options, which one does not belong to the same field as the other three?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nAmong the following options, which one does not belong to the same field as the other three?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nAmong the following options, which one does not belong to the same field as the other three?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nAmong the following options, which one does not belong to the same field as the other three?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nAmong the following options, which one does not belong to the same field as the other three?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nAmong the following options, which one does not belong to the same field as the other three? A. bridge\nB. hotel\nC. factory\nD. castle\nAnswer:",
+      " A"
+    ],
+    [
+      4,
+      "Among the following options, which one is different from the other three?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nAmong the following options, which one is different from the other three?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nAmong the following options, which one is different from the other three?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nAmong the following options, which one is different from the other three?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nAmong the following options, which one is different from the other three?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nAmong the following options, which one is different from the other three? A. bridge\nB. hotel\nC. factory\nD. castle\nAnswer:",
+      " A"
+    ],
+    [
+      5,
+      "Choose the entity that does not match the other three options:\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nChoose the entity that does not match the other three options:\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nChoose the entity that does not match the other three options:\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nChoose the entity that does not match the other three options:\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nChoose the entity that does not match the other three options:\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nChoose the entity that does not match the other three options: A. bridge\nB. hotel\nC. factory\nD. castle\nAnswer:",
+      " A"
+    ]
+  ],
+  "infrastructure": [
+    [
+      1,
+      "Which one doesn't belong to the same category as the others?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nWhich one doesn't belong to the same category as the others?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nWhich one doesn't belong to the same category as the others?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nWhich one doesn't belong to the same category as the others?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nWhich one doesn't belong to the same category as the others?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nWhich one doesn't belong to the same category as the others?\nA. bridge\nB. rest area\nC. cinema\nD. station\nAnswer:",
+      " C"
+    ],
+    [
+      2,
+      "Please identify the entity which one is not of the same type as others:\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nPlease identify the entity which one is not of the same type as others:\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nPlease identify the entity which one is not of the same type as others:\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nPlease identify the entity which one is not of the same type as others:\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nPlease identify the entity which one is not of the same type as others:\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nPlease identify the entity which one is not of the same type as others: A. bridge\nB. rest area\nC. cinema\nD. station\nAnswer:",
+      " C"
+    ],
+    [
+      3,
+      "Among the following options, which one does not belong to the same field as the other three?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nAmong the following options, which one does not belong to the same field as the other three?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nAmong the following options, which one does not belong to the same field as the other three?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nAmong the following options, which one does not belong to the same field as the other three?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nAmong the following options, which one does not belong to the same field as the other three?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nAmong the following options, which one does not belong to the same field as the other three? A. bridge\nB. rest area\nC. cinema\nD. station\nAnswer:",
+      " C"
+    ],
+    [
+      4,
+      "Among the following options, which one is different from the other three?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nAmong the following options, which one is different from the other three?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nAmong the following options, which one is different from the other three?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nAmong the following options, which one is different from the other three?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nAmong the following options, which one is different from the other three?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nAmong the following options, which one is different from the other three? A. bridge\nB. rest area\nC. cinema\nD. station\nAnswer:",
+      " C"
+    ],
+    [
+      5,
+      "Choose the entity that does not match the other three options:\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nChoose the entity that does not match the other three options:\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nChoose the entity that does not match the other three options:\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nChoose the entity that does not match the other three options:\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nChoose the entity that does not match the other three options:\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nChoose the entity that does not match the other three options: A. bridge\nB. rest area\nC. cinema\nD. station\nAnswer:",
+      " C"
+    ]
+  ],
+  "mill": [
+    [
+      1,
+      "Which one doesn't belong to the same category as the others?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nWhich one doesn't belong to the same category as the others?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nWhich one doesn't belong to the same category as the others?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nWhich one doesn't belong to the same category as the others?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nWhich one doesn't belong to the same category as the others?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nWhich one doesn't belong to the same category as the others?\nA. wind motor\nB. watermill\nC. airport\nD. windmill\nAnswer:",
+      " C"
+    ],
+    [
+      2,
+      "Please identify the entity which one is not of the same type as others:\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nPlease identify the entity which one is not of the same type as others:\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nPlease identify the entity which one is not of the same type as others:\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nPlease identify the entity which one is not of the same type as others:\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nPlease identify the entity which one is not of the same type as others:\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nPlease identify the entity which one is not of the same type as others: A. wind motor\nB. watermill\nC. airport\nD. windmill\nAnswer:",
+      " C"
+    ],
+    [
+      3,
+      "Among the following options, which one does not belong to the same field as the other three?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nAmong the following options, which one does not belong to the same field as the other three?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nAmong the following options, which one does not belong to the same field as the other three?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nAmong the following options, which one does not belong to the same field as the other three?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nAmong the following options, which one does not belong to the same field as the other three?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nAmong the following options, which one does not belong to the same field as the other three? A. wind motor\nB. watermill\nC. airport\nD. windmill\nAnswer:",
+      " C"
+    ],
+    [
+      4,
+      "Among the following options, which one is different from the other three?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nAmong the following options, which one is different from the other three?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nAmong the following options, which one is different from the other three?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nAmong the following options, which one is different from the other three?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nAmong the following options, which one is different from the other three?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nAmong the following options, which one is different from the other three? A. wind motor\nB. watermill\nC. airport\nD. windmill\nAnswer:",
+      " C"
+    ],
+    [
+      5,
+      "Choose the entity that does not match the other three options:\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nChoose the entity that does not match the other three options:\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nChoose the entity that does not match the other three options:\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nChoose the entity that does not match the other three options:\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nChoose the entity that does not match the other three options:\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nChoose the entity that does not match the other three options: A. wind motor\nB. watermill\nC. airport\nD. windmill\nAnswer:",
+      " C"
+    ]
+  ],
+  "sport facility": [
+    [
+      1,
+      "Which one doesn't belong to the same category as the others?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nWhich one doesn't belong to the same category as the others?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nWhich one doesn't belong to the same category as the others?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nWhich one doesn't belong to the same category as the others?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nWhich one doesn't belong to the same category as the others?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nWhich one doesn't belong to the same category as the others?\nA. cricket ground\nB. stadium\nC. race track\nD. golf course\nAnswer:",
+      " B"
+    ],
+    [
+      2,
+      "Please identify the entity which one is not of the same type as others:\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nPlease identify the entity which one is not of the same type as others:\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nPlease identify the entity which one is not of the same type as others:\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nPlease identify the entity which one is not of the same type as others:\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nPlease identify the entity which one is not of the same type as others:\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nPlease identify the entity which one is not of the same type as others: A. cricket ground\nB. stadium\nC. race track\nD. golf course\nAnswer:",
+      " B"
+    ],
+    [
+      3,
+      "Among the following options, which one does not belong to the same field as the other three?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nAmong the following options, which one does not belong to the same field as the other three?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nAmong the following options, which one does not belong to the same field as the other three?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nAmong the following options, which one does not belong to the same field as the other three?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nAmong the following options, which one does not belong to the same field as the other three?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nAmong the following options, which one does not belong to the same field as the other three? A. cricket ground\nB. stadium\nC. race track\nD. golf course\nAnswer:",
+      " B"
+    ],
+    [
+      4,
+      "Among the following options, which one is different from the other three?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nAmong the following options, which one is different from the other three?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nAmong the following options, which one is different from the other three?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nAmong the following options, which one is different from the other three?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nAmong the following options, which one is different from the other three?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nAmong the following options, which one is different from the other three? A. cricket ground\nB. stadium\nC. race track\nD. golf course\nAnswer:",
+      " B"
+    ],
+    [
+      5,
+      "Choose the entity that does not match the other three options:\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nChoose the entity that does not match the other three options:\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nChoose the entity that does not match the other three options:\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nChoose the entity that does not match the other three options:\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nChoose the entity that does not match the other three options:\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nChoose the entity that does not match the other three options: A. cricket ground\nB. stadium\nC. race track\nD. golf course\nAnswer:",
+      " B"
+    ]
+  ],
+  "natural event": [
+    [
+      1,
+      "Which one doesn't belong to the same category as the others?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nWhich one doesn't belong to the same category as the others?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nWhich one doesn't belong to the same category as the others?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nWhich one doesn't belong to the same category as the others?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nWhich one doesn't belong to the same category as the others?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nWhich one doesn't belong to the same category as the others?\nA. u.s. open\nB. volcanic eruption\nC. storm surge\nD. hurricane\nAnswer:",
+      " A"
+    ],
+    [
+      2,
+      "Please identify the entity which one is not of the same type as others:\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nPlease identify the entity which one is not of the same type as others:\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nPlease identify the entity which one is not of the same type as others:\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nPlease identify the entity which one is not of the same type as others:\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nPlease identify the entity which one is not of the same type as others:\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nPlease identify the entity which one is not of the same type as others: A. u.s. open\nB. volcanic eruption\nC. storm surge\nD. hurricane\nAnswer:",
+      " A"
+    ],
+    [
+      3,
+      "Among the following options, which one does not belong to the same field as the other three?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nAmong the following options, which one does not belong to the same field as the other three?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nAmong the following options, which one does not belong to the same field as the other three?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nAmong the following options, which one does not belong to the same field as the other three?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nAmong the following options, which one does not belong to the same field as the other three?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nAmong the following options, which one does not belong to the same field as the other three? A. u.s. open\nB. volcanic eruption\nC. storm surge\nD. hurricane\nAnswer:",
+      " A"
+    ],
+    [
+      4,
+      "Among the following options, which one is different from the other three?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nAmong the following options, which one is different from the other three?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nAmong the following options, which one is different from the other three?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nAmong the following options, which one is different from the other three?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nAmong the following options, which one is different from the other three?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nAmong the following options, which one is different from the other three? A. u.s. open\nB. volcanic eruption\nC. storm surge\nD. hurricane\nAnswer:",
+      " A"
+    ],
+    [
+      5,
+      "Choose the entity that does not match the other three options:\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nChoose the entity that does not match the other three options:\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nChoose the entity that does not match the other three options:\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nChoose the entity that does not match the other three options:\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nChoose the entity that does not match the other three options:\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nChoose the entity that does not match the other three options: A. u.s. open\nB. volcanic eruption\nC. storm surge\nD. hurricane\nAnswer:",
+      " A"
+    ]
+  ],
+  "social event": [
+    [
+      1,
+      "Which one doesn't belong to the same category as the others?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nWhich one doesn't belong to the same category as the others?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nWhich one doesn't belong to the same category as the others?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nWhich one doesn't belong to the same category as the others?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nWhich one doesn't belong to the same category as the others?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nWhich one doesn't belong to the same category as the others?\nA. wedding\nB. festival\nC. party\nD. u.s. open\nAnswer:",
+      " D"
+    ],
+    [
+      2,
+      "Please identify the entity which one is not of the same type as others:\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nPlease identify the entity which one is not of the same type as others:\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nPlease identify the entity which one is not of the same type as others:\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nPlease identify the entity which one is not of the same type as others:\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nPlease identify the entity which one is not of the same type as others:\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nPlease identify the entity which one is not of the same type as others: A. wedding\nB. festival\nC. party\nD. u.s. open\nAnswer:",
+      " D"
+    ],
+    [
+      3,
+      "Among the following options, which one does not belong to the same field as the other three?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nAmong the following options, which one does not belong to the same field as the other three?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nAmong the following options, which one does not belong to the same field as the other three?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nAmong the following options, which one does not belong to the same field as the other three?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nAmong the following options, which one does not belong to the same field as the other three?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nAmong the following options, which one does not belong to the same field as the other three? A. wedding\nB. festival\nC. party\nD. u.s. open\nAnswer:",
+      " D"
+    ],
+    [
+      4,
+      "Among the following options, which one is different from the other three?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nAmong the following options, which one is different from the other three?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nAmong the following options, which one is different from the other three?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nAmong the following options, which one is different from the other three?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nAmong the following options, which one is different from the other three?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nAmong the following options, which one is different from the other three? A. wedding\nB. festival\nC. party\nD. u.s. open\nAnswer:",
+      " D"
+    ],
+    [
+      5,
+      "Choose the entity that does not match the other three options:\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nChoose the entity that does not match the other three options:\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nChoose the entity that does not match the other three options:\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nChoose the entity that does not match the other three options:\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nChoose the entity that does not match the other three options:\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nChoose the entity that does not match the other three options: A. wedding\nB. festival\nC. party\nD. u.s. open\nAnswer:",
+      " D"
+    ]
+  ],
+  "sports event": [
+    [
+      1,
+      "Which one doesn't belong to the same category as the others?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nWhich one doesn't belong to the same category as the others?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nWhich one doesn't belong to the same category as the others?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nWhich one doesn't belong to the same category as the others?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nWhich one doesn't belong to the same category as the others?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nWhich one doesn't belong to the same category as the others?\nA. championship\nB. world cup\nC. festival\nD. tour de france\nAnswer:",
+      " C"
+    ],
+    [
+      2,
+      "Please identify the entity which one is not of the same type as others:\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nPlease identify the entity which one is not of the same type as others:\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nPlease identify the entity which one is not of the same type as others:\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nPlease identify the entity which one is not of the same type as others:\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nPlease identify the entity which one is not of the same type as others:\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nPlease identify the entity which one is not of the same type as others: A. championship\nB. world cup\nC. festival\nD. tour de france\nAnswer:",
+      " C"
+    ],
+    [
+      3,
+      "Among the following options, which one does not belong to the same field as the other three?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nAmong the following options, which one does not belong to the same field as the other three?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nAmong the following options, which one does not belong to the same field as the other three?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nAmong the following options, which one does not belong to the same field as the other three?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nAmong the following options, which one does not belong to the same field as the other three?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nAmong the following options, which one does not belong to the same field as the other three? A. championship\nB. world cup\nC. festival\nD. tour de france\nAnswer:",
+      " C"
+    ],
+    [
+      4,
+      "Among the following options, which one is different from the other three?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nAmong the following options, which one is different from the other three?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nAmong the following options, which one is different from the other three?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nAmong the following options, which one is different from the other three?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nAmong the following options, which one is different from the other three?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nAmong the following options, which one is different from the other three? A. championship\nB. world cup\nC. festival\nD. tour de france\nAnswer:",
+      " C"
+    ],
+    [
+      5,
+      "Choose the entity that does not match the other three options:\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nChoose the entity that does not match the other three options:\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nChoose the entity that does not match the other three options:\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nChoose the entity that does not match the other three options:\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nChoose the entity that does not match the other three options:\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nChoose the entity that does not match the other three options: A. championship\nB. world cup\nC. festival\nD. tour de france\nAnswer:",
+      " C"
+    ]
+  ],
+  "cultural event": [
+    [
+      1,
+      "Which one doesn't belong to the same category as the others?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nWhich one doesn't belong to the same category as the others?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nWhich one doesn't belong to the same category as the others?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nWhich one doesn't belong to the same category as the others?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nWhich one doesn't belong to the same category as the others?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nWhich one doesn't belong to the same category as the others?\nA. music festival\nB. art exhibition\nC. national basketball association\nD. theatre festival\nAnswer:",
+      " C"
+    ],
+    [
+      2,
+      "Please identify the entity which one is not of the same type as others:\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nPlease identify the entity which one is not of the same type as others:\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nPlease identify the entity which one is not of the same type as others:\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nPlease identify the entity which one is not of the same type as others:\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nPlease identify the entity which one is not of the same type as others:\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nPlease identify the entity which one is not of the same type as others: A. music festival\nB. art exhibition\nC. national basketball association\nD. theatre festival\nAnswer:",
+      " C"
+    ],
+    [
+      3,
+      "Among the following options, which one does not belong to the same field as the other three?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nAmong the following options, which one does not belong to the same field as the other three?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nAmong the following options, which one does not belong to the same field as the other three?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nAmong the following options, which one does not belong to the same field as the other three?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nAmong the following options, which one does not belong to the same field as the other three?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nAmong the following options, which one does not belong to the same field as the other three? A. music festival\nB. art exhibition\nC. national basketball association\nD. theatre festival\nAnswer:",
+      " C"
+    ],
+    [
+      4,
+      "Among the following options, which one is different from the other three?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nAmong the following options, which one is different from the other three?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nAmong the following options, which one is different from the other three?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nAmong the following options, which one is different from the other three?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nAmong the following options, which one is different from the other three?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nAmong the following options, which one is different from the other three? A. music festival\nB. art exhibition\nC. national basketball association\nD. theatre festival\nAnswer:",
+      " C"
+    ],
+    [
+      5,
+      "Choose the entity that does not match the other three options:\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nChoose the entity that does not match the other three options:\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nChoose the entity that does not match the other three options:\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nChoose the entity that does not match the other three options:\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nChoose the entity that does not match the other three options:\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nChoose the entity that does not match the other three options: A. music festival\nB. art exhibition\nC. national basketball association\nD. theatre festival\nAnswer:",
+      " C"
+    ]
+  ],
+  "business event": [
+    [
+      1,
+      "Which one doesn't belong to the same category as the others?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nWhich one doesn't belong to the same category as the others?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nWhich one doesn't belong to the same category as the others?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nWhich one doesn't belong to the same category as the others?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nWhich one doesn't belong to the same category as the others?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nWhich one doesn't belong to the same category as the others?\nA. volcanic eruption\nB. competitive bidding\nC. product launche\nD. trade show\nAnswer:",
+      " A"
+    ],
+    [
+      2,
+      "Please identify the entity which one is not of the same type as others:\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nPlease identify the entity which one is not of the same type as others:\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nPlease identify the entity which one is not of the same type as others:\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nPlease identify the entity which one is not of the same type as others:\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nPlease identify the entity which one is not of the same type as others:\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nPlease identify the entity which one is not of the same type as others: A. volcanic eruption\nB. competitive bidding\nC. product launche\nD. trade show\nAnswer:",
+      " A"
+    ],
+    [
+      3,
+      "Among the following options, which one does not belong to the same field as the other three?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nAmong the following options, which one does not belong to the same field as the other three?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nAmong the following options, which one does not belong to the same field as the other three?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nAmong the following options, which one does not belong to the same field as the other three?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nAmong the following options, which one does not belong to the same field as the other three?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nAmong the following options, which one does not belong to the same field as the other three? A. volcanic eruption\nB. competitive bidding\nC. product launche\nD. trade show\nAnswer:",
+      " A"
+    ],
+    [
+      4,
+      "Among the following options, which one is different from the other three?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nAmong the following options, which one is different from the other three?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nAmong the following options, which one is different from the other three?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nAmong the following options, which one is different from the other three?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nAmong the following options, which one is different from the other three?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nAmong the following options, which one is different from the other three? A. volcanic eruption\nB. competitive bidding\nC. product launche\nD. trade show\nAnswer:",
+      " A"
+    ],
+    [
+      5,
+      "Choose the entity that does not match the other three options:\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nChoose the entity that does not match the other three options:\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nChoose the entity that does not match the other three options:\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nChoose the entity that does not match the other three options:\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nChoose the entity that does not match the other three options:\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nChoose the entity that does not match the other three options: A. volcanic eruption\nB. competitive bidding\nC. product launche\nD. trade show\nAnswer:",
+      " A"
+    ]
+  ],
+  "beverage": [
+    [
+      1,
+      "Which one doesn't belong to the same category as the others?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nWhich one doesn't belong to the same category as the others?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nWhich one doesn't belong to the same category as the others?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nWhich one doesn't belong to the same category as the others?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nWhich one doesn't belong to the same category as the others?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nWhich one doesn't belong to the same category as the others?\nA. potato chip\nB. milk\nC. vodka\nD. juice\nAnswer:",
+      " A"
+    ],
+    [
+      2,
+      "Please identify the entity which one is not of the same type as others:\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nPlease identify the entity which one is not of the same type as others:\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nPlease identify the entity which one is not of the same type as others:\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nPlease identify the entity which one is not of the same type as others:\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nPlease identify the entity which one is not of the same type as others:\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nPlease identify the entity which one is not of the same type as others: A. potato chip\nB. milk\nC. vodka\nD. juice\nAnswer:",
+      " A"
+    ],
+    [
+      3,
+      "Among the following options, which one does not belong to the same field as the other three?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nAmong the following options, which one does not belong to the same field as the other three?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nAmong the following options, which one does not belong to the same field as the other three?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nAmong the following options, which one does not belong to the same field as the other three?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nAmong the following options, which one does not belong to the same field as the other three?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nAmong the following options, which one does not belong to the same field as the other three? A. potato chip\nB. milk\nC. vodka\nD. juice\nAnswer:",
+      " A"
+    ],
+    [
+      4,
+      "Among the following options, which one is different from the other three?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nAmong the following options, which one is different from the other three?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nAmong the following options, which one is different from the other three?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nAmong the following options, which one is different from the other three?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nAmong the following options, which one is different from the other three?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nAmong the following options, which one is different from the other three? A. potato chip\nB. milk\nC. vodka\nD. juice\nAnswer:",
+      " A"
+    ],
+    [
+      5,
+      "Choose the entity that does not match the other three options:\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nChoose the entity that does not match the other three options:\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nChoose the entity that does not match the other three options:\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nChoose the entity that does not match the other three options:\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nChoose the entity that does not match the other three options:\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nChoose the entity that does not match the other three options: A. potato chip\nB. milk\nC. vodka\nD. juice\nAnswer:",
+      " A"
+    ]
+  ],
+  "meat": [
+    [
+      1,
+      "Which one doesn't belong to the same category as the others?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nWhich one doesn't belong to the same category as the others?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nWhich one doesn't belong to the same category as the others?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nWhich one doesn't belong to the same category as the others?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nWhich one doesn't belong to the same category as the others?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nWhich one doesn't belong to the same category as the others?\nA. beef\nB. pork\nC. mutton\nD. candy\nAnswer:",
+      " D"
+    ],
+    [
+      2,
+      "Please identify the entity which one is not of the same type as others:\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nPlease identify the entity which one is not of the same type as others:\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nPlease identify the entity which one is not of the same type as others:\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nPlease identify the entity which one is not of the same type as others:\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nPlease identify the entity which one is not of the same type as others:\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nPlease identify the entity which one is not of the same type as others: A. beef\nB. pork\nC. mutton\nD. candy\nAnswer:",
+      " D"
+    ],
+    [
+      3,
+      "Among the following options, which one does not belong to the same field as the other three?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nAmong the following options, which one does not belong to the same field as the other three?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nAmong the following options, which one does not belong to the same field as the other three?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nAmong the following options, which one does not belong to the same field as the other three?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nAmong the following options, which one does not belong to the same field as the other three?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nAmong the following options, which one does not belong to the same field as the other three? A. beef\nB. pork\nC. mutton\nD. candy\nAnswer:",
+      " D"
+    ],
+    [
+      4,
+      "Among the following options, which one is different from the other three?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nAmong the following options, which one is different from the other three?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nAmong the following options, which one is different from the other three?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nAmong the following options, which one is different from the other three?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nAmong the following options, which one is different from the other three?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nAmong the following options, which one is different from the other three? A. beef\nB. pork\nC. mutton\nD. candy\nAnswer:",
+      " D"
+    ],
+    [
+      5,
+      "Choose the entity that does not match the other three options:\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nChoose the entity that does not match the other three options:\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nChoose the entity that does not match the other three options:\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nChoose the entity that does not match the other three options:\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nChoose the entity that does not match the other three options:\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nChoose the entity that does not match the other three options: A. beef\nB. pork\nC. mutton\nD. candy\nAnswer:",
+      " D"
+    ]
+  ],
+  "vegetable": [
+    [
+      1,
+      "Which one doesn't belong to the same category as the others?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nWhich one doesn't belong to the same category as the others?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nWhich one doesn't belong to the same category as the others?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nWhich one doesn't belong to the same category as the others?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nWhich one doesn't belong to the same category as the others?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nWhich one doesn't belong to the same category as the others?\nA. lettuce\nB. carrot\nC. cabbage\nD. mango\nAnswer:",
+      " D"
+    ],
+    [
+      2,
+      "Please identify the entity which one is not of the same type as others:\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nPlease identify the entity which one is not of the same type as others:\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nPlease identify the entity which one is not of the same type as others:\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nPlease identify the entity which one is not of the same type as others:\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nPlease identify the entity which one is not of the same type as others:\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nPlease identify the entity which one is not of the same type as others: A. lettuce\nB. carrot\nC. cabbage\nD. mango\nAnswer:",
+      " D"
+    ],
+    [
+      3,
+      "Among the following options, which one does not belong to the same field as the other three?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nAmong the following options, which one does not belong to the same field as the other three?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nAmong the following options, which one does not belong to the same field as the other three?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nAmong the following options, which one does not belong to the same field as the other three?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nAmong the following options, which one does not belong to the same field as the other three?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nAmong the following options, which one does not belong to the same field as the other three? A. lettuce\nB. carrot\nC. cabbage\nD. mango\nAnswer:",
+      " D"
+    ],
+    [
+      4,
+      "Among the following options, which one is different from the other three?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nAmong the following options, which one is different from the other three?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nAmong the following options, which one is different from the other three?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nAmong the following options, which one is different from the other three?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nAmong the following options, which one is different from the other three?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nAmong the following options, which one is different from the other three? A. lettuce\nB. carrot\nC. cabbage\nD. mango\nAnswer:",
+      " D"
+    ],
+    [
+      5,
+      "Choose the entity that does not match the other three options:\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nChoose the entity that does not match the other three options:\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nChoose the entity that does not match the other three options:\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nChoose the entity that does not match the other three options:\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nChoose the entity that does not match the other three options:\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nChoose the entity that does not match the other three options: A. lettuce\nB. carrot\nC. cabbage\nD. mango\nAnswer:",
+      " D"
+    ]
+  ],
+  "fruit": [
+    [
+      1,
+      "Which one doesn't belong to the same category as the others?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nWhich one doesn't belong to the same category as the others?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nWhich one doesn't belong to the same category as the others?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nWhich one doesn't belong to the same category as the others?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nWhich one doesn't belong to the same category as the others?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nWhich one doesn't belong to the same category as the others?\nA. mango\nB. peach\nC. cookie\nD. apple\nAnswer:",
+      " C"
+    ],
+    [
+      2,
+      "Please identify the entity which one is not of the same type as others:\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nPlease identify the entity which one is not of the same type as others:\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nPlease identify the entity which one is not of the same type as others:\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nPlease identify the entity which one is not of the same type as others:\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nPlease identify the entity which one is not of the same type as others:\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nPlease identify the entity which one is not of the same type as others: A. mango\nB. peach\nC. cookie\nD. apple\nAnswer:",
+      " C"
+    ],
+    [
+      3,
+      "Among the following options, which one does not belong to the same field as the other three?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nAmong the following options, which one does not belong to the same field as the other three?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nAmong the following options, which one does not belong to the same field as the other three?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nAmong the following options, which one does not belong to the same field as the other three?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nAmong the following options, which one does not belong to the same field as the other three?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nAmong the following options, which one does not belong to the same field as the other three? A. mango\nB. peach\nC. cookie\nD. apple\nAnswer:",
+      " C"
+    ],
+    [
+      4,
+      "Among the following options, which one is different from the other three?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nAmong the following options, which one is different from the other three?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nAmong the following options, which one is different from the other three?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nAmong the following options, which one is different from the other three?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nAmong the following options, which one is different from the other three?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nAmong the following options, which one is different from the other three? A. mango\nB. peach\nC. cookie\nD. apple\nAnswer:",
+      " C"
+    ],
+    [
+      5,
+      "Choose the entity that does not match the other three options:\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nChoose the entity that does not match the other three options:\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nChoose the entity that does not match the other three options:\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nChoose the entity that does not match the other three options:\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nChoose the entity that does not match the other three options:\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nChoose the entity that does not match the other three options: A. mango\nB. peach\nC. cookie\nD. apple\nAnswer:",
+      " C"
+    ]
+  ],
+  "snack": [
+    [
+      1,
+      "Which one doesn't belong to the same category as the others?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nWhich one doesn't belong to the same category as the others?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nWhich one doesn't belong to the same category as the others?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nWhich one doesn't belong to the same category as the others?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nWhich one doesn't belong to the same category as the others?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nWhich one doesn't belong to the same category as the others?\nA. potato chip\nB. milk\nC. pudding\nD. ice cream\nAnswer:",
+      " B"
+    ],
+    [
+      2,
+      "Please identify the entity which one is not of the same type as others:\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nPlease identify the entity which one is not of the same type as others:\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nPlease identify the entity which one is not of the same type as others:\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nPlease identify the entity which one is not of the same type as others:\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nPlease identify the entity which one is not of the same type as others:\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nPlease identify the entity which one is not of the same type as others: A. potato chip\nB. milk\nC. pudding\nD. ice cream\nAnswer:",
+      " B"
+    ],
+    [
+      3,
+      "Among the following options, which one does not belong to the same field as the other three?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nAmong the following options, which one does not belong to the same field as the other three?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nAmong the following options, which one does not belong to the same field as the other three?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nAmong the following options, which one does not belong to the same field as the other three?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nAmong the following options, which one does not belong to the same field as the other three?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nAmong the following options, which one does not belong to the same field as the other three? A. potato chip\nB. milk\nC. pudding\nD. ice cream\nAnswer:",
+      " B"
+    ],
+    [
+      4,
+      "Among the following options, which one is different from the other three?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nAmong the following options, which one is different from the other three?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nAmong the following options, which one is different from the other three?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nAmong the following options, which one is different from the other three?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nAmong the following options, which one is different from the other three?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nAmong the following options, which one is different from the other three? A. potato chip\nB. milk\nC. pudding\nD. ice cream\nAnswer:",
+      " B"
+    ],
+    [
+      5,
+      "Choose the entity that does not match the other three options:\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nChoose the entity that does not match the other three options:\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nChoose the entity that does not match the other three options:\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nChoose the entity that does not match the other three options:\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nChoose the entity that does not match the other three options:\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nChoose the entity that does not match the other three options: A. potato chip\nB. milk\nC. pudding\nD. ice cream\nAnswer:",
+      " B"
+    ]
+  ],
+  "celestial body": [
+    [
+      1,
+      "Which one doesn't belong to the same category as the others?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nWhich one doesn't belong to the same category as the others?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nWhich one doesn't belong to the same category as the others?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nWhich one doesn't belong to the same category as the others?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nWhich one doesn't belong to the same category as the others?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nWhich one doesn't belong to the same category as the others?\nA. nebula\nB. galaxy\nC. star\nD. lake\nAnswer:",
+      " D"
+    ],
+    [
+      2,
+      "Please identify the entity which one is not of the same type as others:\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nPlease identify the entity which one is not of the same type as others:\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nPlease identify the entity which one is not of the same type as others:\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nPlease identify the entity which one is not of the same type as others:\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nPlease identify the entity which one is not of the same type as others:\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nPlease identify the entity which one is not of the same type as others: A. nebula\nB. galaxy\nC. star\nD. lake\nAnswer:",
+      " D"
+    ],
+    [
+      3,
+      "Among the following options, which one does not belong to the same field as the other three?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nAmong the following options, which one does not belong to the same field as the other three?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nAmong the following options, which one does not belong to the same field as the other three?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nAmong the following options, which one does not belong to the same field as the other three?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nAmong the following options, which one does not belong to the same field as the other three?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nAmong the following options, which one does not belong to the same field as the other three? A. nebula\nB. galaxy\nC. star\nD. lake\nAnswer:",
+      " D"
+    ],
+    [
+      4,
+      "Among the following options, which one is different from the other three?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nAmong the following options, which one is different from the other three?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nAmong the following options, which one is different from the other three?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nAmong the following options, which one is different from the other three?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nAmong the following options, which one is different from the other three?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nAmong the following options, which one is different from the other three? A. nebula\nB. galaxy\nC. star\nD. lake\nAnswer:",
+      " D"
+    ],
+    [
+      5,
+      "Choose the entity that does not match the other three options:\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nChoose the entity that does not match the other three options:\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nChoose the entity that does not match the other three options:\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nChoose the entity that does not match the other three options:\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nChoose the entity that does not match the other three options:\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nChoose the entity that does not match the other three options: A. nebula\nB. galaxy\nC. star\nD. lake\nAnswer:",
+      " D"
+    ]
+  ],
+  "natural place": [
+    [
+      1,
+      "Which one doesn't belong to the same category as the others?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nWhich one doesn't belong to the same category as the others?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nWhich one doesn't belong to the same category as the others?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nWhich one doesn't belong to the same category as the others?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nWhich one doesn't belong to the same category as the others?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nWhich one doesn't belong to the same category as the others?\nA. city district\nB. glacier\nC. desert\nD. valley\nAnswer:",
+      " A"
+    ],
+    [
+      2,
+      "Please identify the entity which one is not of the same type as others:\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nPlease identify the entity which one is not of the same type as others:\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nPlease identify the entity which one is not of the same type as others:\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nPlease identify the entity which one is not of the same type as others:\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nPlease identify the entity which one is not of the same type as others:\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nPlease identify the entity which one is not of the same type as others: A. city district\nB. glacier\nC. desert\nD. valley\nAnswer:",
+      " A"
+    ],
+    [
+      3,
+      "Among the following options, which one does not belong to the same field as the other three?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nAmong the following options, which one does not belong to the same field as the other three?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nAmong the following options, which one does not belong to the same field as the other three?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nAmong the following options, which one does not belong to the same field as the other three?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nAmong the following options, which one does not belong to the same field as the other three?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nAmong the following options, which one does not belong to the same field as the other three? A. city district\nB. glacier\nC. desert\nD. valley\nAnswer:",
+      " A"
+    ],
+    [
+      4,
+      "Among the following options, which one is different from the other three?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nAmong the following options, which one is different from the other three?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nAmong the following options, which one is different from the other three?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nAmong the following options, which one is different from the other three?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nAmong the following options, which one is different from the other three?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nAmong the following options, which one is different from the other three? A. city district\nB. glacier\nC. desert\nD. valley\nAnswer:",
+      " A"
+    ],
+    [
+      5,
+      "Choose the entity that does not match the other three options:\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nChoose the entity that does not match the other three options:\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nChoose the entity that does not match the other three options:\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nChoose the entity that does not match the other three options:\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nChoose the entity that does not match the other three options:\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nChoose the entity that does not match the other three options: A. city district\nB. glacier\nC. desert\nD. valley\nAnswer:",
+      " A"
+    ]
+  ],
+  "populated place": [
+    [
+      1,
+      "Which one doesn't belong to the same category as the others?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nWhich one doesn't belong to the same category as the others?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nWhich one doesn't belong to the same category as the others?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nWhich one doesn't belong to the same category as the others?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nWhich one doesn't belong to the same category as the others?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nWhich one doesn't belong to the same category as the others?\nA. planet\nB. street\nC. country\nD. region\nAnswer:",
+      " A"
+    ],
+    [
+      2,
+      "Please identify the entity which one is not of the same type as others:\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nPlease identify the entity which one is not of the same type as others:\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nPlease identify the entity which one is not of the same type as others:\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nPlease identify the entity which one is not of the same type as others:\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nPlease identify the entity which one is not of the same type as others:\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nPlease identify the entity which one is not of the same type as others: A. planet\nB. street\nC. country\nD. region\nAnswer:",
+      " A"
+    ],
+    [
+      3,
+      "Among the following options, which one does not belong to the same field as the other three?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nAmong the following options, which one does not belong to the same field as the other three?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nAmong the following options, which one does not belong to the same field as the other three?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nAmong the following options, which one does not belong to the same field as the other three?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nAmong the following options, which one does not belong to the same field as the other three?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nAmong the following options, which one does not belong to the same field as the other three? A. planet\nB. street\nC. country\nD. region\nAnswer:",
+      " A"
+    ],
+    [
+      4,
+      "Among the following options, which one is different from the other three?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nAmong the following options, which one is different from the other three?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nAmong the following options, which one is different from the other three?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nAmong the following options, which one is different from the other three?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nAmong the following options, which one is different from the other three?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nAmong the following options, which one is different from the other three? A. planet\nB. street\nC. country\nD. region\nAnswer:",
+      " A"
+    ],
+    [
+      5,
+      "Choose the entity that does not match the other three options:\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nChoose the entity that does not match the other three options:\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nChoose the entity that does not match the other three options:\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nChoose the entity that does not match the other three options:\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nChoose the entity that does not match the other three options:\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nChoose the entity that does not match the other three options: A. planet\nB. street\nC. country\nD. region\nAnswer:",
+      " A"
+    ]
+  ],
+  "settlement": [
+    [
+      1,
+      "Which one doesn't belong to the same category as the others?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nWhich one doesn't belong to the same category as the others?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nWhich one doesn't belong to the same category as the others?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nWhich one doesn't belong to the same category as the others?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nWhich one doesn't belong to the same category as the others?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nWhich one doesn't belong to the same category as the others?\nA. city district\nB. town\nC. village\nD. star\nAnswer:",
+      " D"
+    ],
+    [
+      2,
+      "Please identify the entity which one is not of the same type as others:\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nPlease identify the entity which one is not of the same type as others:\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nPlease identify the entity which one is not of the same type as others:\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nPlease identify the entity which one is not of the same type as others:\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nPlease identify the entity which one is not of the same type as others:\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nPlease identify the entity which one is not of the same type as others: A. city district\nB. town\nC. village\nD. star\nAnswer:",
+      " D"
+    ],
+    [
+      3,
+      "Among the following options, which one does not belong to the same field as the other three?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nAmong the following options, which one does not belong to the same field as the other three?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nAmong the following options, which one does not belong to the same field as the other three?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nAmong the following options, which one does not belong to the same field as the other three?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nAmong the following options, which one does not belong to the same field as the other three?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nAmong the following options, which one does not belong to the same field as the other three? A. city district\nB. town\nC. village\nD. star\nAnswer:",
+      " D"
+    ],
+    [
+      4,
+      "Among the following options, which one is different from the other three?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nAmong the following options, which one is different from the other three?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nAmong the following options, which one is different from the other three?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nAmong the following options, which one is different from the other three?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nAmong the following options, which one is different from the other three?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nAmong the following options, which one is different from the other three? A. city district\nB. town\nC. village\nD. star\nAnswer:",
+      " D"
+    ],
+    [
+      5,
+      "Choose the entity that does not match the other three options:\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nChoose the entity that does not match the other three options:\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nChoose the entity that does not match the other three options:\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nChoose the entity that does not match the other three options:\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nChoose the entity that does not match the other three options:\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nChoose the entity that does not match the other three options: A. city district\nB. town\nC. village\nD. star\nAnswer:",
+      " D"
+    ]
+  ],
+  "bird": [
+    [
+      1,
+      "Which one doesn't belong to the same category as the others?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nWhich one doesn't belong to the same category as the others?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nWhich one doesn't belong to the same category as the others?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nWhich one doesn't belong to the same category as the others?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nWhich one doesn't belong to the same category as the others?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nWhich one doesn't belong to the same category as the others?\nA. dragonfly\nB. seagull\nC. crane\nD. pigeon\nAnswer:",
+      " A"
+    ],
+    [
+      2,
+      "Please identify the entity which one is not of the same type as others:\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nPlease identify the entity which one is not of the same type as others:\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nPlease identify the entity which one is not of the same type as others:\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nPlease identify the entity which one is not of the same type as others:\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nPlease identify the entity which one is not of the same type as others:\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nPlease identify the entity which one is not of the same type as others: A. dragonfly\nB. seagull\nC. crane\nD. pigeon\nAnswer:",
+      " A"
+    ],
+    [
+      3,
+      "Among the following options, which one does not belong to the same field as the other three?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nAmong the following options, which one does not belong to the same field as the other three?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nAmong the following options, which one does not belong to the same field as the other three?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nAmong the following options, which one does not belong to the same field as the other three?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nAmong the following options, which one does not belong to the same field as the other three?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nAmong the following options, which one does not belong to the same field as the other three? A. dragonfly\nB. seagull\nC. crane\nD. pigeon\nAnswer:",
+      " A"
+    ],
+    [
+      4,
+      "Among the following options, which one is different from the other three?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nAmong the following options, which one is different from the other three?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nAmong the following options, which one is different from the other three?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nAmong the following options, which one is different from the other three?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nAmong the following options, which one is different from the other three?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nAmong the following options, which one is different from the other three? A. dragonfly\nB. seagull\nC. crane\nD. pigeon\nAnswer:",
+      " A"
+    ],
+    [
+      5,
+      "Choose the entity that does not match the other three options:\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nChoose the entity that does not match the other three options:\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nChoose the entity that does not match the other three options:\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nChoose the entity that does not match the other three options:\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nChoose the entity that does not match the other three options:\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nChoose the entity that does not match the other three options: A. dragonfly\nB. seagull\nC. crane\nD. pigeon\nAnswer:",
+      " A"
+    ]
+  ],
+  "fish": [
+    [
+      1,
+      "Which one doesn't belong to the same category as the others?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nWhich one doesn't belong to the same category as the others?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nWhich one doesn't belong to the same category as the others?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nWhich one doesn't belong to the same category as the others?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nWhich one doesn't belong to the same category as the others?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nWhich one doesn't belong to the same category as the others?\nA. swallow\nB. salmon\nC. snapper\nD. shark\nAnswer:",
+      " A"
+    ],
+    [
+      2,
+      "Please identify the entity which one is not of the same type as others:\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nPlease identify the entity which one is not of the same type as others:\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nPlease identify the entity which one is not of the same type as others:\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nPlease identify the entity which one is not of the same type as others:\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nPlease identify the entity which one is not of the same type as others:\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nPlease identify the entity which one is not of the same type as others: A. swallow\nB. salmon\nC. snapper\nD. shark\nAnswer:",
+      " A"
+    ],
+    [
+      3,
+      "Among the following options, which one does not belong to the same field as the other three?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nAmong the following options, which one does not belong to the same field as the other three?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nAmong the following options, which one does not belong to the same field as the other three?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nAmong the following options, which one does not belong to the same field as the other three?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nAmong the following options, which one does not belong to the same field as the other three?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nAmong the following options, which one does not belong to the same field as the other three? A. swallow\nB. salmon\nC. snapper\nD. shark\nAnswer:",
+      " A"
+    ],
+    [
+      4,
+      "Among the following options, which one is different from the other three?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nAmong the following options, which one is different from the other three?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nAmong the following options, which one is different from the other three?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nAmong the following options, which one is different from the other three?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nAmong the following options, which one is different from the other three?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nAmong the following options, which one is different from the other three? A. swallow\nB. salmon\nC. snapper\nD. shark\nAnswer:",
+      " A"
+    ],
+    [
+      5,
+      "Choose the entity that does not match the other three options:\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nChoose the entity that does not match the other three options:\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nChoose the entity that does not match the other three options:\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nChoose the entity that does not match the other three options:\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nChoose the entity that does not match the other three options:\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nChoose the entity that does not match the other three options: A. swallow\nB. salmon\nC. snapper\nD. shark\nAnswer:",
+      " A"
+    ]
+  ],
+  "insect": [
+    [
+      1,
+      "Which one doesn't belong to the same category as the others?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nWhich one doesn't belong to the same category as the others?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nWhich one doesn't belong to the same category as the others?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nWhich one doesn't belong to the same category as the others?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nWhich one doesn't belong to the same category as the others?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nWhich one doesn't belong to the same category as the others?\nA. bee\nB. butterfly\nC. dragonfly\nD. bear\nAnswer:",
+      " D"
+    ],
+    [
+      2,
+      "Please identify the entity which one is not of the same type as others:\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nPlease identify the entity which one is not of the same type as others:\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nPlease identify the entity which one is not of the same type as others:\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nPlease identify the entity which one is not of the same type as others:\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nPlease identify the entity which one is not of the same type as others:\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nPlease identify the entity which one is not of the same type as others: A. bee\nB. butterfly\nC. dragonfly\nD. bear\nAnswer:",
+      " D"
+    ],
+    [
+      3,
+      "Among the following options, which one does not belong to the same field as the other three?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nAmong the following options, which one does not belong to the same field as the other three?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nAmong the following options, which one does not belong to the same field as the other three?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nAmong the following options, which one does not belong to the same field as the other three?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nAmong the following options, which one does not belong to the same field as the other three?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nAmong the following options, which one does not belong to the same field as the other three? A. bee\nB. butterfly\nC. dragonfly\nD. bear\nAnswer:",
+      " D"
+    ],
+    [
+      4,
+      "Among the following options, which one is different from the other three?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nAmong the following options, which one is different from the other three?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nAmong the following options, which one is different from the other three?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nAmong the following options, which one is different from the other three?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nAmong the following options, which one is different from the other three?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nAmong the following options, which one is different from the other three? A. bee\nB. butterfly\nC. dragonfly\nD. bear\nAnswer:",
+      " D"
+    ],
+    [
+      5,
+      "Choose the entity that does not match the other three options:\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nChoose the entity that does not match the other three options:\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nChoose the entity that does not match the other three options:\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nChoose the entity that does not match the other three options:\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nChoose the entity that does not match the other three options:\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nChoose the entity that does not match the other three options: A. bee\nB. butterfly\nC. dragonfly\nD. bear\nAnswer:",
+      " D"
+    ]
+  ],
+  "mammal": [
+    [
+      1,
+      "Which one doesn't belong to the same category as the others?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nWhich one doesn't belong to the same category as the others?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nWhich one doesn't belong to the same category as the others?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nWhich one doesn't belong to the same category as the others?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nWhich one doesn't belong to the same category as the others?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nWhich one doesn't belong to the same category as the others?\nA. dolphin\nB. cat\nC. camel\nD. salmon\nAnswer:",
+      " D"
+    ],
+    [
+      2,
+      "Please identify the entity which one is not of the same type as others:\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nPlease identify the entity which one is not of the same type as others:\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nPlease identify the entity which one is not of the same type as others:\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nPlease identify the entity which one is not of the same type as others:\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nPlease identify the entity which one is not of the same type as others:\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nPlease identify the entity which one is not of the same type as others: A. dolphin\nB. cat\nC. camel\nD. salmon\nAnswer:",
+      " D"
+    ],
+    [
+      3,
+      "Among the following options, which one does not belong to the same field as the other three?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nAmong the following options, which one does not belong to the same field as the other three?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nAmong the following options, which one does not belong to the same field as the other three?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nAmong the following options, which one does not belong to the same field as the other three?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nAmong the following options, which one does not belong to the same field as the other three?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nAmong the following options, which one does not belong to the same field as the other three? A. dolphin\nB. cat\nC. camel\nD. salmon\nAnswer:",
+      " D"
+    ],
+    [
+      4,
+      "Among the following options, which one is different from the other three?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nAmong the following options, which one is different from the other three?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nAmong the following options, which one is different from the other three?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nAmong the following options, which one is different from the other three?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nAmong the following options, which one is different from the other three?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nAmong the following options, which one is different from the other three? A. dolphin\nB. cat\nC. camel\nD. salmon\nAnswer:",
+      " D"
+    ],
+    [
+      5,
+      "Choose the entity that does not match the other three options:\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nChoose the entity that does not match the other three options:\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nChoose the entity that does not match the other three options:\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nChoose the entity that does not match the other three options:\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nChoose the entity that does not match the other three options:\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nChoose the entity that does not match the other three options: A. dolphin\nB. cat\nC. camel\nD. salmon\nAnswer:",
+      " D"
+    ]
+  ],
+  "reptile": [
+    [
+      1,
+      "Which one doesn't belong to the same category as the others?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nWhich one doesn't belong to the same category as the others?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nWhich one doesn't belong to the same category as the others?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nWhich one doesn't belong to the same category as the others?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nWhich one doesn't belong to the same category as the others?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nWhich one doesn't belong to the same category as the others?\nA. bear\nB. cobra\nC. crocodile\nD. turtle\nAnswer:",
+      " A"
+    ],
+    [
+      2,
+      "Please identify the entity which one is not of the same type as others:\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nPlease identify the entity which one is not of the same type as others:\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nPlease identify the entity which one is not of the same type as others:\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nPlease identify the entity which one is not of the same type as others:\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nPlease identify the entity which one is not of the same type as others:\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nPlease identify the entity which one is not of the same type as others: A. bear\nB. cobra\nC. crocodile\nD. turtle\nAnswer:",
+      " A"
+    ],
+    [
+      3,
+      "Among the following options, which one does not belong to the same field as the other three?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nAmong the following options, which one does not belong to the same field as the other three?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nAmong the following options, which one does not belong to the same field as the other three?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nAmong the following options, which one does not belong to the same field as the other three?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nAmong the following options, which one does not belong to the same field as the other three?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nAmong the following options, which one does not belong to the same field as the other three? A. bear\nB. cobra\nC. crocodile\nD. turtle\nAnswer:",
+      " A"
+    ],
+    [
+      4,
+      "Among the following options, which one is different from the other three?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nAmong the following options, which one is different from the other three?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nAmong the following options, which one is different from the other three?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nAmong the following options, which one is different from the other three?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nAmong the following options, which one is different from the other three?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nAmong the following options, which one is different from the other three? A. bear\nB. cobra\nC. crocodile\nD. turtle\nAnswer:",
+      " A"
+    ],
+    [
+      5,
+      "Choose the entity that does not match the other three options:\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nChoose the entity that does not match the other three options:\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nChoose the entity that does not match the other three options:\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nChoose the entity that does not match the other three options:\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nChoose the entity that does not match the other three options:\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nChoose the entity that does not match the other three options: A. bear\nB. cobra\nC. crocodile\nD. turtle\nAnswer:",
+      " A"
+    ]
+  ],
+  "conifer": [
+    [
+      1,
+      "Which one doesn't belong to the same category as the others?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nWhich one doesn't belong to the same category as the others?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nWhich one doesn't belong to the same category as the others?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nWhich one doesn't belong to the same category as the others?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nWhich one doesn't belong to the same category as the others?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nWhich one doesn't belong to the same category as the others?\nA. lily\nB. cedar\nC. spruce\nD. cypress\nAnswer:",
+      " A"
+    ],
+    [
+      2,
+      "Please identify the entity which one is not of the same type as others:\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nPlease identify the entity which one is not of the same type as others:\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nPlease identify the entity which one is not of the same type as others:\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nPlease identify the entity which one is not of the same type as others:\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nPlease identify the entity which one is not of the same type as others:\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nPlease identify the entity which one is not of the same type as others: A. lily\nB. cedar\nC. spruce\nD. cypress\nAnswer:",
+      " A"
+    ],
+    [
+      3,
+      "Among the following options, which one does not belong to the same field as the other three?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nAmong the following options, which one does not belong to the same field as the other three?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nAmong the following options, which one does not belong to the same field as the other three?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nAmong the following options, which one does not belong to the same field as the other three?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nAmong the following options, which one does not belong to the same field as the other three?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nAmong the following options, which one does not belong to the same field as the other three? A. lily\nB. cedar\nC. spruce\nD. cypress\nAnswer:",
+      " A"
+    ],
+    [
+      4,
+      "Among the following options, which one is different from the other three?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nAmong the following options, which one is different from the other three?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nAmong the following options, which one is different from the other three?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nAmong the following options, which one is different from the other three?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nAmong the following options, which one is different from the other three?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nAmong the following options, which one is different from the other three? A. lily\nB. cedar\nC. spruce\nD. cypress\nAnswer:",
+      " A"
+    ],
+    [
+      5,
+      "Choose the entity that does not match the other three options:\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nChoose the entity that does not match the other three options:\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nChoose the entity that does not match the other three options:\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nChoose the entity that does not match the other three options:\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nChoose the entity that does not match the other three options:\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nChoose the entity that does not match the other three options: A. lily\nB. cedar\nC. spruce\nD. cypress\nAnswer:",
+      " A"
+    ]
+  ],
+  "fern": [
+    [
+      1,
+      "Which one doesn't belong to the same category as the others?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nWhich one doesn't belong to the same category as the others?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nWhich one doesn't belong to the same category as the others?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nWhich one doesn't belong to the same category as the others?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nWhich one doesn't belong to the same category as the others?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nWhich one doesn't belong to the same category as the others?\nA. asplenium\nB. pine\nC. azolla\nD. pteridium aquilinum\nAnswer:",
+      " B"
+    ],
+    [
+      2,
+      "Please identify the entity which one is not of the same type as others:\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nPlease identify the entity which one is not of the same type as others:\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nPlease identify the entity which one is not of the same type as others:\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nPlease identify the entity which one is not of the same type as others:\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nPlease identify the entity which one is not of the same type as others:\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nPlease identify the entity which one is not of the same type as others: A. asplenium\nB. pine\nC. azolla\nD. pteridium aquilinum\nAnswer:",
+      " B"
+    ],
+    [
+      3,
+      "Among the following options, which one does not belong to the same field as the other three?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nAmong the following options, which one does not belong to the same field as the other three?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nAmong the following options, which one does not belong to the same field as the other three?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nAmong the following options, which one does not belong to the same field as the other three?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nAmong the following options, which one does not belong to the same field as the other three?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nAmong the following options, which one does not belong to the same field as the other three? A. asplenium\nB. pine\nC. azolla\nD. pteridium aquilinum\nAnswer:",
+      " B"
+    ],
+    [
+      4,
+      "Among the following options, which one is different from the other three?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nAmong the following options, which one is different from the other three?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nAmong the following options, which one is different from the other three?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nAmong the following options, which one is different from the other three?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nAmong the following options, which one is different from the other three?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nAmong the following options, which one is different from the other three? A. asplenium\nB. pine\nC. azolla\nD. pteridium aquilinum\nAnswer:",
+      " B"
+    ],
+    [
+      5,
+      "Choose the entity that does not match the other three options:\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nChoose the entity that does not match the other three options:\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nChoose the entity that does not match the other three options:\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nChoose the entity that does not match the other three options:\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nChoose the entity that does not match the other three options:\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nChoose the entity that does not match the other three options: A. asplenium\nB. pine\nC. azolla\nD. pteridium aquilinum\nAnswer:",
+      " B"
+    ]
+  ],
+  "flowering plant": [
+    [
+      1,
+      "Which one doesn't belong to the same category as the others?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nWhich one doesn't belong to the same category as the others?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nWhich one doesn't belong to the same category as the others?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nWhich one doesn't belong to the same category as the others?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nWhich one doesn't belong to the same category as the others?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nWhich one doesn't belong to the same category as the others?\nA. sphagnum\nB. rose\nC. orchid\nD. peony\nAnswer:",
+      " A"
+    ],
+    [
+      2,
+      "Please identify the entity which one is not of the same type as others:\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nPlease identify the entity which one is not of the same type as others:\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nPlease identify the entity which one is not of the same type as others:\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nPlease identify the entity which one is not of the same type as others:\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nPlease identify the entity which one is not of the same type as others:\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nPlease identify the entity which one is not of the same type as others: A. sphagnum\nB. rose\nC. orchid\nD. peony\nAnswer:",
+      " A"
+    ],
+    [
+      3,
+      "Among the following options, which one does not belong to the same field as the other three?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nAmong the following options, which one does not belong to the same field as the other three?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nAmong the following options, which one does not belong to the same field as the other three?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nAmong the following options, which one does not belong to the same field as the other three?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nAmong the following options, which one does not belong to the same field as the other three?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nAmong the following options, which one does not belong to the same field as the other three? A. sphagnum\nB. rose\nC. orchid\nD. peony\nAnswer:",
+      " A"
+    ],
+    [
+      4,
+      "Among the following options, which one is different from the other three?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nAmong the following options, which one is different from the other three?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nAmong the following options, which one is different from the other three?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nAmong the following options, which one is different from the other three?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nAmong the following options, which one is different from the other three?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nAmong the following options, which one is different from the other three? A. sphagnum\nB. rose\nC. orchid\nD. peony\nAnswer:",
+      " A"
+    ],
+    [
+      5,
+      "Choose the entity that does not match the other three options:\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nChoose the entity that does not match the other three options:\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nChoose the entity that does not match the other three options:\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nChoose the entity that does not match the other three options:\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nChoose the entity that does not match the other three options:\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nChoose the entity that does not match the other three options: A. sphagnum\nB. rose\nC. orchid\nD. peony\nAnswer:",
+      " A"
+    ]
+  ],
+  "broadleaf tree": [
+    [
+      1,
+      "Which one doesn't belong to the same category as the others?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nWhich one doesn't belong to the same category as the others?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nWhich one doesn't belong to the same category as the others?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nWhich one doesn't belong to the same category as the others?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nWhich one doesn't belong to the same category as the others?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nWhich one doesn't belong to the same category as the others?\nA. larch\nB. acer\nC. firmiana simplex\nD. ulmus\nAnswer:",
+      " A"
+    ],
+    [
+      2,
+      "Please identify the entity which one is not of the same type as others:\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nPlease identify the entity which one is not of the same type as others:\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nPlease identify the entity which one is not of the same type as others:\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nPlease identify the entity which one is not of the same type as others:\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nPlease identify the entity which one is not of the same type as others:\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nPlease identify the entity which one is not of the same type as others: A. larch\nB. acer\nC. firmiana simplex\nD. ulmus\nAnswer:",
+      " A"
+    ],
+    [
+      3,
+      "Among the following options, which one does not belong to the same field as the other three?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nAmong the following options, which one does not belong to the same field as the other three?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nAmong the following options, which one does not belong to the same field as the other three?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nAmong the following options, which one does not belong to the same field as the other three?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nAmong the following options, which one does not belong to the same field as the other three?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nAmong the following options, which one does not belong to the same field as the other three? A. larch\nB. acer\nC. firmiana simplex\nD. ulmus\nAnswer:",
+      " A"
+    ],
+    [
+      4,
+      "Among the following options, which one is different from the other three?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nAmong the following options, which one is different from the other three?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nAmong the following options, which one is different from the other three?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nAmong the following options, which one is different from the other three?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nAmong the following options, which one is different from the other three?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nAmong the following options, which one is different from the other three? A. larch\nB. acer\nC. firmiana simplex\nD. ulmus\nAnswer:",
+      " A"
+    ],
+    [
+      5,
+      "Choose the entity that does not match the other three options:\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nChoose the entity that does not match the other three options:\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nChoose the entity that does not match the other three options:\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nChoose the entity that does not match the other three options:\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nChoose the entity that does not match the other three options:\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nChoose the entity that does not match the other three options: A. larch\nB. acer\nC. firmiana simplex\nD. ulmus\nAnswer:",
+      " A"
+    ]
+  ],
+  "moss": [
+    [
+      1,
+      "Which one doesn't belong to the same category as the others?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nWhich one doesn't belong to the same category as the others?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nWhich one doesn't belong to the same category as the others?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nWhich one doesn't belong to the same category as the others?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nWhich one doesn't belong to the same category as the others?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nWhich one doesn't belong to the same category as the others?\nA. betula\nB. sphagnum\nC. racomitrium\nD. marchantia polymorpha\nAnswer:",
+      " A"
+    ],
+    [
+      2,
+      "Please identify the entity which one is not of the same type as others:\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nPlease identify the entity which one is not of the same type as others:\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nPlease identify the entity which one is not of the same type as others:\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nPlease identify the entity which one is not of the same type as others:\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nPlease identify the entity which one is not of the same type as others:\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nPlease identify the entity which one is not of the same type as others: A. betula\nB. sphagnum\nC. racomitrium\nD. marchantia polymorpha\nAnswer:",
+      " A"
+    ],
+    [
+      3,
+      "Among the following options, which one does not belong to the same field as the other three?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nAmong the following options, which one does not belong to the same field as the other three?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nAmong the following options, which one does not belong to the same field as the other three?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nAmong the following options, which one does not belong to the same field as the other three?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nAmong the following options, which one does not belong to the same field as the other three?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nAmong the following options, which one does not belong to the same field as the other three? A. betula\nB. sphagnum\nC. racomitrium\nD. marchantia polymorpha\nAnswer:",
+      " A"
+    ],
+    [
+      4,
+      "Among the following options, which one is different from the other three?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nAmong the following options, which one is different from the other three?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nAmong the following options, which one is different from the other three?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nAmong the following options, which one is different from the other three?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nAmong the following options, which one is different from the other three?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nAmong the following options, which one is different from the other three? A. betula\nB. sphagnum\nC. racomitrium\nD. marchantia polymorpha\nAnswer:",
+      " A"
+    ],
+    [
+      5,
+      "Choose the entity that does not match the other three options:\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nChoose the entity that does not match the other three options:\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nChoose the entity that does not match the other three options:\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nChoose the entity that does not match the other three options:\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nChoose the entity that does not match the other three options:\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nChoose the entity that does not match the other three options: A. betula\nB. sphagnum\nC. racomitrium\nD. marchantia polymorpha\nAnswer:",
+      " A"
+    ]
+  ],
+  "artist": [
+    [
+      1,
+      "Which one doesn't belong to the same category as the others?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nWhich one doesn't belong to the same category as the others?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nWhich one doesn't belong to the same category as the others?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nWhich one doesn't belong to the same category as the others?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nWhich one doesn't belong to the same category as the others?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nWhich one doesn't belong to the same category as the others?\nA. boxer\nB. humorist\nC. movie director\nD. actor\nAnswer:",
+      " A"
+    ],
+    [
+      2,
+      "Please identify the entity which one is not of the same type as others:\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nPlease identify the entity which one is not of the same type as others:\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nPlease identify the entity which one is not of the same type as others:\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nPlease identify the entity which one is not of the same type as others:\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nPlease identify the entity which one is not of the same type as others:\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nPlease identify the entity which one is not of the same type as others: A. boxer\nB. humorist\nC. movie director\nD. actor\nAnswer:",
+      " A"
+    ],
+    [
+      3,
+      "Among the following options, which one does not belong to the same field as the other three?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nAmong the following options, which one does not belong to the same field as the other three?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nAmong the following options, which one does not belong to the same field as the other three?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nAmong the following options, which one does not belong to the same field as the other three?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nAmong the following options, which one does not belong to the same field as the other three?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nAmong the following options, which one does not belong to the same field as the other three? A. boxer\nB. humorist\nC. movie director\nD. actor\nAnswer:",
+      " A"
+    ],
+    [
+      4,
+      "Among the following options, which one is different from the other three?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nAmong the following options, which one is different from the other three?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nAmong the following options, which one is different from the other three?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nAmong the following options, which one is different from the other three?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nAmong the following options, which one is different from the other three?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nAmong the following options, which one is different from the other three? A. boxer\nB. humorist\nC. movie director\nD. actor\nAnswer:",
+      " A"
+    ],
+    [
+      5,
+      "Choose the entity that does not match the other three options:\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nChoose the entity that does not match the other three options:\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nChoose the entity that does not match the other three options:\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nChoose the entity that does not match the other three options:\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nChoose the entity that does not match the other three options:\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nChoose the entity that does not match the other three options: A. boxer\nB. humorist\nC. movie director\nD. actor\nAnswer:",
+      " A"
+    ]
+  ],
+  "athlete": [
+    [
+      1,
+      "Which one doesn't belong to the same category as the others?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nWhich one doesn't belong to the same category as the others?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nWhich one doesn't belong to the same category as the others?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nWhich one doesn't belong to the same category as the others?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nWhich one doesn't belong to the same category as the others?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nWhich one doesn't belong to the same category as the others?\nA. chess player\nB. skater\nC. song writer\nD. skier\nAnswer:",
+      " C"
+    ],
+    [
+      2,
+      "Please identify the entity which one is not of the same type as others:\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nPlease identify the entity which one is not of the same type as others:\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nPlease identify the entity which one is not of the same type as others:\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nPlease identify the entity which one is not of the same type as others:\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nPlease identify the entity which one is not of the same type as others:\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nPlease identify the entity which one is not of the same type as others: A. chess player\nB. skater\nC. song writer\nD. skier\nAnswer:",
+      " C"
+    ],
+    [
+      3,
+      "Among the following options, which one does not belong to the same field as the other three?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nAmong the following options, which one does not belong to the same field as the other three?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nAmong the following options, which one does not belong to the same field as the other three?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nAmong the following options, which one does not belong to the same field as the other three?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nAmong the following options, which one does not belong to the same field as the other three?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nAmong the following options, which one does not belong to the same field as the other three? A. chess player\nB. skater\nC. song writer\nD. skier\nAnswer:",
+      " C"
+    ],
+    [
+      4,
+      "Among the following options, which one is different from the other three?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nAmong the following options, which one is different from the other three?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nAmong the following options, which one is different from the other three?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nAmong the following options, which one is different from the other three?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nAmong the following options, which one is different from the other three?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nAmong the following options, which one is different from the other three? A. chess player\nB. skater\nC. song writer\nD. skier\nAnswer:",
+      " C"
+    ],
+    [
+      5,
+      "Choose the entity that does not match the other three options:\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nChoose the entity that does not match the other three options:\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nChoose the entity that does not match the other three options:\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nChoose the entity that does not match the other three options:\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nChoose the entity that does not match the other three options:\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nChoose the entity that does not match the other three options: A. chess player\nB. skater\nC. song writer\nD. skier\nAnswer:",
+      " C"
+    ]
+  ],
+  "cleric": [
+    [
+      1,
+      "Which one doesn't belong to the same category as the others?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nWhich one doesn't belong to the same category as the others?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nWhich one doesn't belong to the same category as the others?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nWhich one doesn't belong to the same category as the others?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nWhich one doesn't belong to the same category as the others?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nWhich one doesn't belong to the same category as the others?\nA. swimmer\nB. cardinal\nC. christian bishop\nD. pope\nAnswer:",
+      " A"
+    ],
+    [
+      2,
+      "Please identify the entity which one is not of the same type as others:\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nPlease identify the entity which one is not of the same type as others:\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nPlease identify the entity which one is not of the same type as others:\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nPlease identify the entity which one is not of the same type as others:\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nPlease identify the entity which one is not of the same type as others:\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nPlease identify the entity which one is not of the same type as others: A. swimmer\nB. cardinal\nC. christian bishop\nD. pope\nAnswer:",
+      " A"
+    ],
+    [
+      3,
+      "Among the following options, which one does not belong to the same field as the other three?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nAmong the following options, which one does not belong to the same field as the other three?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nAmong the following options, which one does not belong to the same field as the other three?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nAmong the following options, which one does not belong to the same field as the other three?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nAmong the following options, which one does not belong to the same field as the other three?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nAmong the following options, which one does not belong to the same field as the other three? A. swimmer\nB. cardinal\nC. christian bishop\nD. pope\nAnswer:",
+      " A"
+    ],
+    [
+      4,
+      "Among the following options, which one is different from the other three?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nAmong the following options, which one is different from the other three?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nAmong the following options, which one is different from the other three?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nAmong the following options, which one is different from the other three?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nAmong the following options, which one is different from the other three?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nAmong the following options, which one is different from the other three? A. swimmer\nB. cardinal\nC. christian bishop\nD. pope\nAnswer:",
+      " A"
+    ],
+    [
+      5,
+      "Choose the entity that does not match the other three options:\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nChoose the entity that does not match the other three options:\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nChoose the entity that does not match the other three options:\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nChoose the entity that does not match the other three options:\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nChoose the entity that does not match the other three options:\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nChoose the entity that does not match the other three options: A. swimmer\nB. cardinal\nC. christian bishop\nD. pope\nAnswer:",
+      " A"
+    ]
+  ],
+  "politician": [
+    [
+      1,
+      "Which one doesn't belong to the same category as the others?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nWhich one doesn't belong to the same category as the others?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nWhich one doesn't belong to the same category as the others?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nWhich one doesn't belong to the same category as the others?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nWhich one doesn't belong to the same category as the others?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nWhich one doesn't belong to the same category as the others?\nA. member of parliament\nB. chancellor\nC. governor\nD. poet\nAnswer:",
+      " D"
+    ],
+    [
+      2,
+      "Please identify the entity which one is not of the same type as others:\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nPlease identify the entity which one is not of the same type as others:\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nPlease identify the entity which one is not of the same type as others:\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nPlease identify the entity which one is not of the same type as others:\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nPlease identify the entity which one is not of the same type as others:\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nPlease identify the entity which one is not of the same type as others: A. member of parliament\nB. chancellor\nC. governor\nD. poet\nAnswer:",
+      " D"
+    ],
+    [
+      3,
+      "Among the following options, which one does not belong to the same field as the other three?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nAmong the following options, which one does not belong to the same field as the other three?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nAmong the following options, which one does not belong to the same field as the other three?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nAmong the following options, which one does not belong to the same field as the other three?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nAmong the following options, which one does not belong to the same field as the other three?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nAmong the following options, which one does not belong to the same field as the other three? A. member of parliament\nB. chancellor\nC. governor\nD. poet\nAnswer:",
+      " D"
+    ],
+    [
+      4,
+      "Among the following options, which one is different from the other three?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nAmong the following options, which one is different from the other three?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nAmong the following options, which one is different from the other three?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nAmong the following options, which one is different from the other three?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nAmong the following options, which one is different from the other three?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nAmong the following options, which one is different from the other three? A. member of parliament\nB. chancellor\nC. governor\nD. poet\nAnswer:",
+      " D"
+    ],
+    [
+      5,
+      "Choose the entity that does not match the other three options:\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nChoose the entity that does not match the other three options:\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nChoose the entity that does not match the other three options:\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nChoose the entity that does not match the other three options:\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nChoose the entity that does not match the other three options:\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nChoose the entity that does not match the other three options: A. member of parliament\nB. chancellor\nC. governor\nD. poet\nAnswer:",
+      " D"
+    ]
+  ],
+  "scientist": [
+    [
+      1,
+      "Which one doesn't belong to the same category as the others?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nWhich one doesn't belong to the same category as the others?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nWhich one doesn't belong to the same category as the others?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nWhich one doesn't belong to the same category as the others?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nWhich one doesn't belong to the same category as the others?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nWhich one doesn't belong to the same category as the others?\nA. physicist\nB. chancellor\nC. ecologists\nD. psychologist\nAnswer:",
+      " B"
+    ],
+    [
+      2,
+      "Please identify the entity which one is not of the same type as others:\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nPlease identify the entity which one is not of the same type as others:\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nPlease identify the entity which one is not of the same type as others:\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nPlease identify the entity which one is not of the same type as others:\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nPlease identify the entity which one is not of the same type as others:\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nPlease identify the entity which one is not of the same type as others: A. physicist\nB. chancellor\nC. ecologists\nD. psychologist\nAnswer:",
+      " B"
+    ],
+    [
+      3,
+      "Among the following options, which one does not belong to the same field as the other three?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nAmong the following options, which one does not belong to the same field as the other three?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nAmong the following options, which one does not belong to the same field as the other three?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nAmong the following options, which one does not belong to the same field as the other three?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nAmong the following options, which one does not belong to the same field as the other three?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nAmong the following options, which one does not belong to the same field as the other three? A. physicist\nB. chancellor\nC. ecologists\nD. psychologist\nAnswer:",
+      " B"
+    ],
+    [
+      4,
+      "Among the following options, which one is different from the other three?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nAmong the following options, which one is different from the other three?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nAmong the following options, which one is different from the other three?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nAmong the following options, which one is different from the other three?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nAmong the following options, which one is different from the other three?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nAmong the following options, which one is different from the other three? A. physicist\nB. chancellor\nC. ecologists\nD. psychologist\nAnswer:",
+      " B"
+    ],
+    [
+      5,
+      "Choose the entity that does not match the other three options:\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nChoose the entity that does not match the other three options:\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nChoose the entity that does not match the other three options:\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nChoose the entity that does not match the other three options:\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nChoose the entity that does not match the other three options:\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nChoose the entity that does not match the other three options: A. physicist\nB. chancellor\nC. ecologists\nD. psychologist\nAnswer:",
+      " B"
+    ]
+  ],
+  "writer": [
+    [
+      1,
+      "Which one doesn't belong to the same category as the others?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nWhich one doesn't belong to the same category as the others?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nWhich one doesn't belong to the same category as the others?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nWhich one doesn't belong to the same category as the others?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nWhich one doesn't belong to the same category as the others?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nWhich one doesn't belong to the same category as the others?\nA. fashion designer\nB. playwright\nC. poet\nD. song writer\nAnswer:",
+      " A"
+    ],
+    [
+      2,
+      "Please identify the entity which one is not of the same type as others:\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nPlease identify the entity which one is not of the same type as others:\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nPlease identify the entity which one is not of the same type as others:\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nPlease identify the entity which one is not of the same type as others:\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nPlease identify the entity which one is not of the same type as others:\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nPlease identify the entity which one is not of the same type as others: A. fashion designer\nB. playwright\nC. poet\nD. song writer\nAnswer:",
+      " A"
+    ],
+    [
+      3,
+      "Among the following options, which one does not belong to the same field as the other three?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nAmong the following options, which one does not belong to the same field as the other three?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nAmong the following options, which one does not belong to the same field as the other three?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nAmong the following options, which one does not belong to the same field as the other three?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nAmong the following options, which one does not belong to the same field as the other three?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nAmong the following options, which one does not belong to the same field as the other three? A. fashion designer\nB. playwright\nC. poet\nD. song writer\nAnswer:",
+      " A"
+    ],
+    [
+      4,
+      "Among the following options, which one is different from the other three?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nAmong the following options, which one is different from the other three?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nAmong the following options, which one is different from the other three?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nAmong the following options, which one is different from the other three?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nAmong the following options, which one is different from the other three?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nAmong the following options, which one is different from the other three? A. fashion designer\nB. playwright\nC. poet\nD. song writer\nAnswer:",
+      " A"
+    ],
+    [
+      5,
+      "Choose the entity that does not match the other three options:\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nChoose the entity that does not match the other three options:\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nChoose the entity that does not match the other three options:\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nChoose the entity that does not match the other three options:\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nChoose the entity that does not match the other three options:\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nChoose the entity that does not match the other three options: A. fashion designer\nB. playwright\nC. poet\nD. song writer\nAnswer:",
+      " A"
+    ]
+  ],
+  "artwork": [
+    [
+      1,
+      "Which one doesn't belong to the same category as the others?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nWhich one doesn't belong to the same category as the others?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nWhich one doesn't belong to the same category as the others?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nWhich one doesn't belong to the same category as the others?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nWhich one doesn't belong to the same category as the others?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nWhich one doesn't belong to the same category as the others?\nA. web browser\nB. photography\nC. murals\nD. printmaking\nAnswer:",
+      " A"
+    ],
+    [
+      2,
+      "Please identify the entity which one is not of the same type as others:\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nPlease identify the entity which one is not of the same type as others:\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nPlease identify the entity which one is not of the same type as others:\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nPlease identify the entity which one is not of the same type as others:\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nPlease identify the entity which one is not of the same type as others:\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nPlease identify the entity which one is not of the same type as others: A. web browser\nB. photography\nC. murals\nD. printmaking\nAnswer:",
+      " A"
+    ],
+    [
+      3,
+      "Among the following options, which one does not belong to the same field as the other three?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nAmong the following options, which one does not belong to the same field as the other three?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nAmong the following options, which one does not belong to the same field as the other three?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nAmong the following options, which one does not belong to the same field as the other three?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nAmong the following options, which one does not belong to the same field as the other three?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nAmong the following options, which one does not belong to the same field as the other three? A. web browser\nB. photography\nC. murals\nD. printmaking\nAnswer:",
+      " A"
+    ],
+    [
+      4,
+      "Among the following options, which one is different from the other three?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nAmong the following options, which one is different from the other three?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nAmong the following options, which one is different from the other three?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nAmong the following options, which one is different from the other three?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nAmong the following options, which one is different from the other three?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nAmong the following options, which one is different from the other three? A. web browser\nB. photography\nC. murals\nD. printmaking\nAnswer:",
+      " A"
+    ],
+    [
+      5,
+      "Choose the entity that does not match the other three options:\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nChoose the entity that does not match the other three options:\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nChoose the entity that does not match the other three options:\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nChoose the entity that does not match the other three options:\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nChoose the entity that does not match the other three options:\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nChoose the entity that does not match the other three options: A. web browser\nB. photography\nC. murals\nD. printmaking\nAnswer:",
+      " A"
+    ]
+  ],
+  "musicalwork": [
+    [
+      1,
+      "Which one doesn't belong to the same category as the others?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nWhich one doesn't belong to the same category as the others?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nWhich one doesn't belong to the same category as the others?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nWhich one doesn't belong to the same category as the others?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nWhich one doesn't belong to the same category as the others?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nWhich one doesn't belong to the same category as the others?\nA. murals\nB. single\nC. musical\nD. album\nAnswer:",
+      " A"
+    ],
+    [
+      2,
+      "Please identify the entity which one is not of the same type as others:\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nPlease identify the entity which one is not of the same type as others:\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nPlease identify the entity which one is not of the same type as others:\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nPlease identify the entity which one is not of the same type as others:\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nPlease identify the entity which one is not of the same type as others:\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nPlease identify the entity which one is not of the same type as others: A. murals\nB. single\nC. musical\nD. album\nAnswer:",
+      " A"
+    ],
+    [
+      3,
+      "Among the following options, which one does not belong to the same field as the other three?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nAmong the following options, which one does not belong to the same field as the other three?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nAmong the following options, which one does not belong to the same field as the other three?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nAmong the following options, which one does not belong to the same field as the other three?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nAmong the following options, which one does not belong to the same field as the other three?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nAmong the following options, which one does not belong to the same field as the other three? A. murals\nB. single\nC. musical\nD. album\nAnswer:",
+      " A"
+    ],
+    [
+      4,
+      "Among the following options, which one is different from the other three?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nAmong the following options, which one is different from the other three?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nAmong the following options, which one is different from the other three?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nAmong the following options, which one is different from the other three?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nAmong the following options, which one is different from the other three?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nAmong the following options, which one is different from the other three? A. murals\nB. single\nC. musical\nD. album\nAnswer:",
+      " A"
+    ],
+    [
+      5,
+      "Choose the entity that does not match the other three options:\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nChoose the entity that does not match the other three options:\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nChoose the entity that does not match the other three options:\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nChoose the entity that does not match the other three options:\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nChoose the entity that does not match the other three options:\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nChoose the entity that does not match the other three options: A. murals\nB. single\nC. musical\nD. album\nAnswer:",
+      " A"
+    ]
+  ],
+  "writtenwork": [
+    [
+      1,
+      "Which one doesn't belong to the same category as the others?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nWhich one doesn't belong to the same category as the others?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nWhich one doesn't belong to the same category as the others?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nWhich one doesn't belong to the same category as the others?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nWhich one doesn't belong to the same category as the others?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nWhich one doesn't belong to the same category as the others?\nA. article\nB. comic\nC. play\nD. sculpture\nAnswer:",
+      " D"
+    ],
+    [
+      2,
+      "Please identify the entity which one is not of the same type as others:\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nPlease identify the entity which one is not of the same type as others:\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nPlease identify the entity which one is not of the same type as others:\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nPlease identify the entity which one is not of the same type as others:\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nPlease identify the entity which one is not of the same type as others:\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nPlease identify the entity which one is not of the same type as others: A. article\nB. comic\nC. play\nD. sculpture\nAnswer:",
+      " D"
+    ],
+    [
+      3,
+      "Among the following options, which one does not belong to the same field as the other three?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nAmong the following options, which one does not belong to the same field as the other three?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nAmong the following options, which one does not belong to the same field as the other three?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nAmong the following options, which one does not belong to the same field as the other three?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nAmong the following options, which one does not belong to the same field as the other three?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nAmong the following options, which one does not belong to the same field as the other three? A. article\nB. comic\nC. play\nD. sculpture\nAnswer:",
+      " D"
+    ],
+    [
+      4,
+      "Among the following options, which one is different from the other three?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nAmong the following options, which one is different from the other three?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nAmong the following options, which one is different from the other three?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nAmong the following options, which one is different from the other three?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nAmong the following options, which one is different from the other three?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nAmong the following options, which one is different from the other three? A. article\nB. comic\nC. play\nD. sculpture\nAnswer:",
+      " D"
+    ],
+    [
+      5,
+      "Choose the entity that does not match the other three options:\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nChoose the entity that does not match the other three options:\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nChoose the entity that does not match the other three options:\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nChoose the entity that does not match the other three options:\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nChoose the entity that does not match the other three options:\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nChoose the entity that does not match the other three options: A. article\nB. comic\nC. play\nD. sculpture\nAnswer:",
+      " D"
+    ]
+  ],
+  "software": [
+    [
+      1,
+      "Which one doesn't belong to the same category as the others?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nWhich one doesn't belong to the same category as the others?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nWhich one doesn't belong to the same category as the others?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nWhich one doesn't belong to the same category as the others?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nWhich one doesn't belong to the same category as the others?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nWhich one doesn't belong to the same category as the others?\nA. web browser\nB. media player\nC. painting\nD. mobile app\nAnswer:",
+      " C"
+    ],
+    [
+      2,
+      "Please identify the entity which one is not of the same type as others:\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nPlease identify the entity which one is not of the same type as others:\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nPlease identify the entity which one is not of the same type as others:\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nPlease identify the entity which one is not of the same type as others:\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nPlease identify the entity which one is not of the same type as others:\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nPlease identify the entity which one is not of the same type as others: A. web browser\nB. media player\nC. painting\nD. mobile app\nAnswer:",
+      " C"
+    ],
+    [
+      3,
+      "Among the following options, which one does not belong to the same field as the other three?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nAmong the following options, which one does not belong to the same field as the other three?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nAmong the following options, which one does not belong to the same field as the other three?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nAmong the following options, which one does not belong to the same field as the other three?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nAmong the following options, which one does not belong to the same field as the other three?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nAmong the following options, which one does not belong to the same field as the other three? A. web browser\nB. media player\nC. painting\nD. mobile app\nAnswer:",
+      " C"
+    ],
+    [
+      4,
+      "Among the following options, which one is different from the other three?\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nAmong the following options, which one is different from the other three?\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nAmong the following options, which one is different from the other three?\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nAmong the following options, which one is different from the other three?\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nAmong the following options, which one is different from the other three?\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nAmong the following options, which one is different from the other three? A. web browser\nB. media player\nC. painting\nD. mobile app\nAnswer:",
+      " C"
+    ],
+    [
+      5,
+      "Choose the entity that does not match the other three options:\nA. Michael Jordan\nB. LeBron James\nC. Kobe Bryant\nD. Tencent\nAnswer: D\nChoose the entity that does not match the other three options:\nA. Egypt\nB. Lionel Messi\nC. Diego Maradona\nD. Johan Cruyff\nAnswer: A\nChoose the entity that does not match the other three options:\nA. Marie Curie\nB. Google\nC. Alexander Graham Bell\nD. James Clerk Maxwell\nAnswer: B\nChoose the entity that does not match the other three options:\nA. Julia Roberts\nB. Cate Blanchett\nC. Morgan Freeman\nD. United States\nAnswer: D\nChoose the entity that does not match the other three options:\nA. China\nB. France\nC. Alan Turing\nD. Italy\nAnswer: C\nChoose the entity that does not match the other three options: A. web browser\nB. media player\nC. painting\nD. mobile app\nAnswer:",
+      " C"
+    ]
+  ]
+}
